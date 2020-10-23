@@ -1,0 +1,34 @@
+.form-container {
+  font-family: Roboto;
+  position: absolute;
+  width: 1165px;
+  height: 270px;
+  left: 90px;
+  top: 115px;
+  border-radius: 16px;
+  padding-left: 95px;
+  background: #e6f7ff;
+}
+
+.form-input-title {
+  font-weight: 500;
+  font-size: 38px;
+  color: #262626;
+}
+
+.form-input-box {
+  width: 680px;
+  height: 40px;
+  border-radius: 4px;
+  padding-left: 10px;
+  outline-color: lightblue;
+  border: 1px solid #d9d9d9;
+  background-color: #fff;
+  font-weight: 500;
+  font-size: 16px;
+  color: #000;
+}
+
+.form-btn-position {
+  padding-top: 25px;
+}
